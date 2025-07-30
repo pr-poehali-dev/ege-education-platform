@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:wght@400;500;600;700&family=Open+Sans:wght@400;500;600&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -15,11 +15,11 @@
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 343 81% 29%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 0 84% 25%;
+    --primary-foreground: 45 100% 50%;
 
-    --secondary: 45 94% 51%;
-    --secondary-foreground: 222.2 84% 4.9%;
+    --secondary: 45 100% 50%;
+    --secondary-foreground: 0 84% 25%;
 
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
@@ -108,6 +108,10 @@
   h4,
   h5,
   h6 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Cinzel Decorative", serif;
+  }
+
+  .magical-text {
+    font-family: "Cormorant Garamond", serif;
   }
 }

@@ -62,10 +62,16 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'burgundy': '#8B1538',
-				'gold': '#D4AF37',
-				'navy': '#1F2937',
-				'light-gray': '#F8F9FA'
+				'gryffindor': '#7F0909',
+				'gryffindor-gold': '#FFD700',
+				'slytherin': '#1A472A',
+				'slytherin-silver': '#AAAAAA',
+				'ravenclaw': '#0E1A40',
+				'ravenclaw-bronze': '#946B2D',
+				'hufflepuff': '#FFDB00',
+				'hufflepuff-brown': '#372E29',
+				'magical-dark': '#1A1C4A',
+				'parchment': '#F4F1E8'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
