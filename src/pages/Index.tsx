@@ -130,7 +130,7 @@ const Index = () => {
             <img 
               src="https://cdn.poehali.dev/files/f601af4a-1815-42c6-a8df-f7d2cd93b0aa.jpg" 
               alt="Герб Скулгвардс" 
-              className="w-40 h-40 mx-auto mb-6 rounded-full border-4 border-gryffindor-gold shadow-2xl"
+              className="w-40 h-40 mx-auto mb-6 rounded-full border-4 border-gryffindor-gold shadow-2xl object-contain"
             />
           </div>
           <h1 className="text-6xl md:text-7xl font-bold text-gryffindor-gold mb-6 leading-tight">
